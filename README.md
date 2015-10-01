@@ -36,7 +36,7 @@
 * water bottle
 
 # Travel Longer than ~1 Day
-* [mail held](https://holdmail.usps.com/duns/HoldMail.jsp)
+* [mail held](https://holdmail.usps.com/)
 * plants watered
 
 # International Travel
