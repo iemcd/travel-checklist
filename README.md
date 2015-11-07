@@ -45,3 +45,4 @@
 * [Hulu account suspended](http://www.hulu.com/help/articles/20181106)
 * device charge checked
 * [appropriate plug/power adapter](https://en.wikipedia.org/wiki/Mains_electricity_by_country#Table_of_mains_voltages_and_frequencies)
+* passport
